@@ -1,0 +1,1 @@
+This is a Level-2 Task 3 to create a Basic To-Do WebApp to add daily tasks. A user can mark it comlplete when the task is done. 
